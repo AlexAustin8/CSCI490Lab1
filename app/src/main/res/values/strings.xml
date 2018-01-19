@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleTimer</string>
+    <string name="start_text">Start</string>
+    <string name="reset_text">Reset</string>
+    <string name="time_remain">Time Remaining: </string>
+    <string name="time_elapse">Time Elapsed: </string>
+    <string name="time_up">Time\'s Up! </string>
+
+
+</resources>
